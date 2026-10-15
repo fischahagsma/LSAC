@@ -1,0 +1,14 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Задание №1}{2}{section.1}%
+\contentsline {section}{\numberline {2}Построение схемы и вывод начальных условий}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Константный входной сигнал}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Отсутствие входного сигнала}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Константный входной сигнал при ненулевых начальных условиях}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Анализ}{7}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Задание №2}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Каноническая управляемая форма}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Каноническая диагональная форма}{10}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Задание №3}{14}{section.4}%
+\contentsline {section}{\numberline {5}Задание №4}{16}{section.5}%
+\contentsline {section}{\numberline {6}Выводы}{18}{section.6}%
+\contentsfinish 

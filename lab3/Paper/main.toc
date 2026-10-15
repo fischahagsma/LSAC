@@ -1,0 +1,16 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Задание №1}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Исходные данные}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Коэффициенты системы и тип устойчивости}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Аналитический расчет вынужденного движения}{3}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Схема моделирования}{4}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Результаты моделирования}{5}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Выводы по заданию 1}{10}{subsection.1.6}%
+\contentsline {section}{\numberline {2}Задание №2}{11}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Исходные данные}{11}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Корневые показатели качества и оценки динамических показателей}{12}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Переходные характеристики}{12}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Результаты расчетов}{15}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Выводы по заданию 2}{16}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Выводы}{17}{section.3}%
+\contentsfinish 
