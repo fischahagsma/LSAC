@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1792141326.61333 "c:/ITMO/LSAU/lab/LSAC/LSAC/lab3/Paper/main.tex" "main.pdf" "main" 1792141328.90397 0
-  "c:/ITMO/LSAU/lab/LSAC/LSAC/lab3/Paper/main.tex" 1792141325 31768 7a0d07178d24a5c0af536ee2725a65bc ""
+["pdflatex"] 1792141750.4255 "c:/ITMO/LSAU/lab/LSAC/LSAC/lab3/Paper/main.tex" "main.pdf" "main" 1792141752.67404 0
+  "c:/ITMO/LSAU/lab/LSAC/LSAC/lab3/Paper/main.tex" 1792141747 31768 7aaee438753dd315318000ddb9d7314f ""
   "c:/Users/18157/.texlive2026/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1773915622 3304 6a543c07045572737981351171e0505e ""
   "c:/Users/18157/.texlive2026/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm" 1773915620 3256 3daaa33cf35cf3f354983aa3214ecd7f ""
   "c:/Users/18157/.texlive2026/texmf-var/fonts/tfm/lh/lh-t2a/lati0600.tfm" 1791457081 3528 d301f5141277b5cf2d3e1e47a41a7d24 ""
@@ -160,10 +160,10 @@
   "images/task2_exp4.png" 1792061399 25404 6d9e231da3bd00f9cbec9a30039245c9 ""
   "images/task2_exp5.png" 1792059521 26833 585113b3dcbf413dfc661804dcd084d1 ""
   "images/task2_exp6.png" 1792061402 28886 dd429b6c6127754ba65d2293cb1d727c ""
-  "main.aux" 1792141328 9107 62ea3debb63ae7286a87f38ac2f007bd "pdflatex"
-  "main.out" 1792141328 3341 f158b4495ca3f9c18b3ed376a2b0e041 "pdflatex"
-  "main.tex" 1792141325 31768 7a0d07178d24a5c0af536ee2725a65bc ""
-  "main.toc" 1792141328 1568 ea793ac3608aca4867acf25904ac8075 "pdflatex"
+  "main.aux" 1792141752 9107 a62cc9af72ad8f3baa3a9cffb6fab214 "pdflatex"
+  "main.out" 1792141752 3341 f158b4495ca3f9c18b3ed376a2b0e041 "pdflatex"
+  "main.tex" 1792141747 31768 7aaee438753dd315318000ddb9d7314f ""
+  "main.toc" 1792141752 1568 ea793ac3608aca4867acf25904ac8075 "pdflatex"
   "src/vpdtitle.sty" 1791104868 2800 3314287d3b6b931a856e9177525109f5 ""
   (generated)
   "main.aux"
