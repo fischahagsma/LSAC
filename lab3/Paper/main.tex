@@ -248,7 +248,7 @@
 \[
     \ddot{y} = \beta a_0 u - a_1\dot{y} - a_0 y
 \]
-Последовательным интегрированием $\ddot{y} \xrightarrow{1/p} \dot{y} \xrightarrow{1/p} y$ получим сигналы $\dot{y}$ и $y$, необходимые для формирования обратных связей. Схема моделирования системы в Simulink в форме вход-состояние-выход:
+Последовательным интегрированием $\ddot{y} \xrightarrow{1/p} \dot{y} \xrightarrow{1/p} y$ получим сигналы $\dot{y}$ и $y$, необходимые для формирования обратных связей. Схема моделирования системы в Simulink в форме вход-выход:
 \begin{figure}[H]
     \centering
     \includegraphics[width=\textwidth]{images/scheme1.png}
@@ -262,55 +262,55 @@
 \subsection{Результаты моделирования}
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.8\textwidth]{images/exp2_u1.jpg}
+    \includegraphics[width=0.8\textwidth]{images/exp2_u1.png}
     \caption{Эксперимент 2: $\lambda_{1,2} = -1.2 \pm 10j, u(t) = 1$}
     \label{fig:2}
 \end{figure}
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.8\textwidth]{images/exp2_u2.jpg}
+    \includegraphics[width=0.8\textwidth]{images/exp2_u2.png}
     \caption{Эксперимент 2: $\lambda_{1,2} = -1.2 \pm 10j, u(t) = 0.5t$}
     \label{fig:2}
 \end{figure}
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.8\textwidth]{images/exp2_u3.jpg}
+    \includegraphics[width=0.8\textwidth]{images/exp2_u3.png}
     \caption{Эксперимент 2: $\lambda_{1,2} = -1.2 \pm 10j, u(t) = \sin{(3t)}$}
     \label{fig:2}
 \end{figure}
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.8\textwidth]{images/exp3_u1.jpg}
+    \includegraphics[width=0.8\textwidth]{images/exp3_u1.png}
     \caption{Эксперимент 3: $\lambda_{1,2} = \pm 10j, u(t) = 1$}
     \label{fig:2}
 \end{figure}
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.8\textwidth]{images/exp3_u2.jpg}
+    \includegraphics[width=0.8\textwidth]{images/exp3_u2.png}
     \caption{Эксперимент 3: $\lambda_{1,2} = \pm 10j, u(t) = 0.5t$}
     \label{fig:2}
 \end{figure}
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.8\textwidth]{images/exp3_u3.jpg}
+    \includegraphics[width=0.8\textwidth]{images/exp3_u3.png}
     \caption{Эксперимент 3: $\lambda_{1,2} = \pm 10j, u(t) = \sin{(3t)}$}
     \label{fig:2}
 \end{figure}
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.8\textwidth]{images/exp4_u1.jpg}
+    \includegraphics[width=0.8\textwidth]{images/exp4_u1.png}
     \caption{Эксперимент 4: $\lambda_{1,2} = 1.2 \pm 10j, u(t) = 1$}
     \label{fig:2}
 \end{figure}
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.8\textwidth]{images/exp4_u2.jpg}
+    \includegraphics[width=0.8\textwidth]{images/exp4_u2.png}
     \caption{Эксперимент 4: $\lambda_{1,2} = 1.2 \pm 10j, u(t) = 0.5t$}
     \label{fig:2}
 \end{figure}
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.8\textwidth]{images/exp4_u3.jpg}
+    \includegraphics[width=0.8\textwidth]{images/exp4_u3.png}
     \caption{Эксперимент 4: $\lambda_{1,2} = 1.2 \pm 10j, u(t) = \sin{(3t)}$}
     \label{fig:2}
 \end{figure}
@@ -338,6 +338,7 @@
 \[
     W(s) = \frac{|\lambda_1 \lambda_2 \lambda_3|}{(s - \lambda_1)(s - \lambda_2)(s - \lambda_3)}
 \]
+
 Для варианта 13  $a = 9$, $b = 19$, $c = 33$. Так как номер варианта нечетный, принимаем $\delta_{\text{п}} = 2\%$.
 \begin{table}[H]
 \centering
@@ -355,7 +356,13 @@
     6 & $-33$ & $-9 + 33i$ & $-9 - 33i$ & $\dfrac{38610}{s^3 + 51s^2 + 1764s + 38610}$ \\ \hline
 \end{tabular}
 \end{table}
-Составим схему системы в Simulink в форме вход-выход:
+Каждая система описывается передаточной функцией
+\[
+    W(s) = \frac{K}{s^3 + a_2 s^2 + a_1 s + a_0}, \qquad K = a_0 = |\lambda_1 \lambda_2 \lambda_3|,
+\]
+коэффициенты $a_2$, $a_1$, $a_0$ для каждого набора полюсов указаны в таблице \ref{tab:3}. Составим схему системы в Simulink в форме вход-выход:
+
+
 \begin{figure}[H]
     \centering
     \includegraphics[width=\textwidth]{images/scheme2.png}
@@ -385,7 +392,7 @@
 \]
 
 \subsection{Переходные характеристики}
-Для переходных характеристикик $h(t)$  время переходного процесса $t_{\text{п}}$ определено как момент, после которого выполняется $|h(t) - 1| \le \delta_{\text{п}} = 0.02$, перерегулирование как
+Для переходных характеристик $h(t)$  время переходного процесса $t_{\text{п}}$ определено как момент, после которого выполняется $|h(t) - 1| \le \delta_{\text{п}} = 0.02$, перерегулирование как
 \[
     \sigma = \frac{h_{\max} - 1}{1} \cdot 100\% \ \ \textit{при} \ \ h_{\max} > 1, \qquad \sigma = 0 \ \ \textit{иначе}
 \]

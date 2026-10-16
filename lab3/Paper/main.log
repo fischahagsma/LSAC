@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.12)  15 OCT 2026 14:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.12)  16 OCT 2026 12:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/ITMO/LSAU/LSAC-master-main/lab3/Paper/main.tex
-(c:/ITMO/LSAU/LSAC-master-main/lab3/Paper/main.tex
+**c:/ITMO/LSAU/lab/LSAC/LSAC/lab3/Paper/main.tex
+(c:/ITMO/LSAU/lab/LSAC/LSAC/lab3/Paper/main.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
 (d:/texlive/2026/texmf-dist/tex/latex/base/article.cls
@@ -893,95 +893,95 @@ Underfull \hbox (badness 10000) in paragraph at lines 258--260
  []
 
 [4 <./images/scheme1.png>]
-<images/exp2_u1.jpg, id=136, 702.625pt x 496.85625pt>
-File: images/exp2_u1.jpg Graphic file (type jpg)
-<use images/exp2_u1.jpg>
-Package pdftex.def Info: images/exp2_u1.jpg  used on input line 265.
-(pdftex.def)             Requested size: 386.95897pt x 273.64326pt.
-<images/exp2_u2.jpg, id=137, 702.625pt x 496.85625pt>
-File: images/exp2_u2.jpg Graphic file (type jpg)
-<use images/exp2_u2.jpg>
-Package pdftex.def Info: images/exp2_u2.jpg  used on input line 271.
-(pdftex.def)             Requested size: 386.95897pt x 273.64326pt.
-<images/exp2_u3.jpg, id=138, 702.625pt x 496.85625pt>
-File: images/exp2_u3.jpg Graphic file (type jpg)
-<use images/exp2_u3.jpg>
-Package pdftex.def Info: images/exp2_u3.jpg  used on input line 277.
-(pdftex.def)             Requested size: 386.95897pt x 273.64326pt.
-<images/exp3_u1.jpg, id=139, 702.625pt x 496.85625pt>
-File: images/exp3_u1.jpg Graphic file (type jpg)
-<use images/exp3_u1.jpg>
-Package pdftex.def Info: images/exp3_u1.jpg  used on input line 283.
-(pdftex.def)             Requested size: 386.95897pt x 273.64326pt.
- [5 <./images/exp2_u1.jpg> <./images/exp2_u2.jpg>]
-<images/exp3_u2.jpg, id=146, 702.625pt x 496.85625pt>
-File: images/exp3_u2.jpg Graphic file (type jpg)
-<use images/exp3_u2.jpg>
-Package pdftex.def Info: images/exp3_u2.jpg  used on input line 289.
-(pdftex.def)             Requested size: 386.95897pt x 273.64326pt.
-<images/exp3_u3.jpg, id=147, 702.625pt x 496.85625pt>
-File: images/exp3_u3.jpg Graphic file (type jpg)
-<use images/exp3_u3.jpg>
-Package pdftex.def Info: images/exp3_u3.jpg  used on input line 295.
-(pdftex.def)             Requested size: 386.95897pt x 273.64326pt.
- [6 <./images/exp2_u3.jpg> <./images/exp3_u1.jpg>]
-<images/exp4_u1.jpg, id=155, 702.625pt x 496.85625pt>
-File: images/exp4_u1.jpg Graphic file (type jpg)
-<use images/exp4_u1.jpg>
-Package pdftex.def Info: images/exp4_u1.jpg  used on input line 301.
-(pdftex.def)             Requested size: 386.95897pt x 273.64326pt.
-<images/exp4_u2.jpg, id=156, 702.625pt x 496.85625pt>
-File: images/exp4_u2.jpg Graphic file (type jpg)
-<use images/exp4_u2.jpg>
-Package pdftex.def Info: images/exp4_u2.jpg  used on input line 307.
-(pdftex.def)             Requested size: 386.95897pt x 273.64326pt.
- [7 <./images/exp3_u2.jpg> <./images/exp3_u3.jpg>]
-<images/exp4_u3.jpg, id=163, 702.625pt x 496.85625pt>
-File: images/exp4_u3.jpg Graphic file (type jpg)
-<use images/exp4_u3.jpg>
-Package pdftex.def Info: images/exp4_u3.jpg  used on input line 313.
-(pdftex.def)             Requested size: 386.95897pt x 273.64326pt.
- [8 <./images/exp4_u1.jpg> <./images/exp4_u2.jpg>] [9 <./images/exp4_u3.jpg>] [10]
-<images/scheme2.png, id=180, 567.3195pt x 216.81pt>
+<images/exp2_u1.png, id=136, 421.575pt x 298.2342pt>
+File: images/exp2_u1.png Graphic file (type png)
+<use images/exp2_u1.png>
+Package pdftex.def Info: images/exp2_u1.png  used on input line 265.
+(pdftex.def)             Requested size: 386.95897pt x 273.7508pt.
+<images/exp2_u2.png, id=137, 421.575pt x 298.2342pt>
+File: images/exp2_u2.png Graphic file (type png)
+<use images/exp2_u2.png>
+Package pdftex.def Info: images/exp2_u2.png  used on input line 271.
+(pdftex.def)             Requested size: 386.95897pt x 273.7508pt.
+<images/exp2_u3.png, id=138, 421.575pt x 298.2342pt>
+File: images/exp2_u3.png Graphic file (type png)
+<use images/exp2_u3.png>
+Package pdftex.def Info: images/exp2_u3.png  used on input line 277.
+(pdftex.def)             Requested size: 386.95897pt x 273.7508pt.
+<images/exp3_u1.png, id=139, 421.575pt x 298.2342pt>
+File: images/exp3_u1.png Graphic file (type png)
+<use images/exp3_u1.png>
+Package pdftex.def Info: images/exp3_u1.png  used on input line 283.
+(pdftex.def)             Requested size: 386.95897pt x 273.7508pt.
+ [5 <./images/exp2_u1.png (PNG copy)> <./images/exp2_u2.png (PNG copy)>]
+<images/exp3_u2.png, id=146, 421.575pt x 298.2342pt>
+File: images/exp3_u2.png Graphic file (type png)
+<use images/exp3_u2.png>
+Package pdftex.def Info: images/exp3_u2.png  used on input line 289.
+(pdftex.def)             Requested size: 386.95897pt x 273.7508pt.
+<images/exp3_u3.png, id=147, 421.575pt x 298.2342pt>
+File: images/exp3_u3.png Graphic file (type png)
+<use images/exp3_u3.png>
+Package pdftex.def Info: images/exp3_u3.png  used on input line 295.
+(pdftex.def)             Requested size: 386.95897pt x 273.7508pt.
+ [6 <./images/exp2_u3.png (PNG copy)> <./images/exp3_u1.png (PNG copy)>]
+<images/exp4_u1.png, id=155, 421.575pt x 298.2342pt>
+File: images/exp4_u1.png Graphic file (type png)
+<use images/exp4_u1.png>
+Package pdftex.def Info: images/exp4_u1.png  used on input line 301.
+(pdftex.def)             Requested size: 386.95897pt x 273.7508pt.
+<images/exp4_u2.png, id=156, 421.575pt x 298.2342pt>
+File: images/exp4_u2.png Graphic file (type png)
+<use images/exp4_u2.png>
+Package pdftex.def Info: images/exp4_u2.png  used on input line 307.
+(pdftex.def)             Requested size: 386.95897pt x 273.7508pt.
+ [7 <./images/exp3_u2.png (PNG copy)> <./images/exp3_u3.png (PNG copy)>]
+<images/exp4_u3.png, id=163, 421.575pt x 298.2342pt>
+File: images/exp4_u3.png Graphic file (type png)
+<use images/exp4_u3.png>
+Package pdftex.def Info: images/exp4_u3.png  used on input line 313.
+(pdftex.def)             Requested size: 386.95897pt x 273.7508pt.
+ [8 <./images/exp4_u1.png (PNG copy)> <./images/exp4_u2.png (PNG copy)>] [9 <./images/exp4_u3.png (PNG copy)>] [10]
+<images/scheme2.png, id=181, 567.3195pt x 216.81pt>
 File: images/scheme2.png Graphic file (type png)
 <use images/scheme2.png>
-Package pdftex.def Info: images/scheme2.png  used on input line 361.
+Package pdftex.def Info: images/scheme2.png  used on input line 368.
 (pdftex.def)             Requested size: 483.69687pt x 184.85176pt.
  [11 <./images/scheme2.png>]
-<images/task2_exp1.png, id=188, 602.25pt x 376.2858pt>
+<images/task2_exp1.png, id=189, 602.25pt x 376.2858pt>
 File: images/task2_exp1.png Graphic file (type png)
 <use images/task2_exp1.png>
-Package pdftex.def Info: images/task2_exp1.png  used on input line 394.
+Package pdftex.def Info: images/task2_exp1.png  used on input line 401.
 (pdftex.def)             Requested size: 386.95897pt x 241.78093pt.
-<images/task2_exp2.png, id=189, 602.25pt x 376.2858pt>
+<images/task2_exp2.png, id=190, 602.25pt x 376.2858pt>
 File: images/task2_exp2.png Graphic file (type png)
 <use images/task2_exp2.png>
-Package pdftex.def Info: images/task2_exp2.png  used on input line 400.
+Package pdftex.def Info: images/task2_exp2.png  used on input line 407.
 (pdftex.def)             Requested size: 386.95897pt x 241.78093pt.
-<images/task2_exp3.png, id=190, 602.25pt x 376.2858pt>
+<images/task2_exp3.png, id=191, 602.25pt x 376.2858pt>
 File: images/task2_exp3.png Graphic file (type png)
 <use images/task2_exp3.png>
-Package pdftex.def Info: images/task2_exp3.png  used on input line 406.
+Package pdftex.def Info: images/task2_exp3.png  used on input line 413.
 (pdftex.def)             Requested size: 386.95897pt x 241.78093pt.
  [12 <./images/task2_exp1.png (PNG copy)>]
-<images/task2_exp4.png, id=199, 602.25pt x 376.2858pt>
+<images/task2_exp4.png, id=200, 602.25pt x 376.2858pt>
 File: images/task2_exp4.png Graphic file (type png)
 <use images/task2_exp4.png>
-Package pdftex.def Info: images/task2_exp4.png  used on input line 412.
+Package pdftex.def Info: images/task2_exp4.png  used on input line 419.
 (pdftex.def)             Requested size: 386.95897pt x 241.78093pt.
-<images/task2_exp5.png, id=200, 602.25pt x 376.2858pt>
+<images/task2_exp5.png, id=201, 602.25pt x 376.2858pt>
 File: images/task2_exp5.png Graphic file (type png)
 <use images/task2_exp5.png>
-Package pdftex.def Info: images/task2_exp5.png  used on input line 418.
+Package pdftex.def Info: images/task2_exp5.png  used on input line 425.
 (pdftex.def)             Requested size: 386.95897pt x 241.78093pt.
  [13 <./images/task2_exp2.png (PNG copy)> <./images/task2_exp3.png (PNG copy)>]
-<images/task2_exp6.png, id=207, 602.25pt x 376.2858pt>
+<images/task2_exp6.png, id=208, 602.25pt x 376.2858pt>
 File: images/task2_exp6.png Graphic file (type png)
 <use images/task2_exp6.png>
-Package pdftex.def Info: images/task2_exp6.png  used on input line 424.
+Package pdftex.def Info: images/task2_exp6.png  used on input line 431.
 (pdftex.def)             Requested size: 386.95897pt x 241.78093pt.
  [14 <./images/task2_exp4.png (PNG copy)> <./images/task2_exp5.png (PNG copy)>]
-Overfull \hbox (42.48972pt too wide) in paragraph at lines 436--447
+Overfull \hbox (42.48972pt too wide) in paragraph at lines 443--454
  [][] 
  []
 
@@ -999,17 +999,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  17704 strings out of 467525
- 275942 string characters out of 5423209
+ 275933 string characters out of 5423209
  913790 words of memory out of 5000000
  46311 multiletter control sequences out of 15000+600000
  644986 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,15n,84p,1531b,510s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,15n,84p,1528b,510s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <d:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (18 pages, 983535 bytes).
+Output written on main.pdf (18 pages, 1250729 bytes).
 PDF statistics:
- 314 PDF objects out of 1000 (max. 8388607)
- 223 compressed objects within 3 object streams
+ 315 PDF objects out of 1000 (max. 8388607)
+ 224 compressed objects within 3 object streams
  54 named destinations out of 1000 (max. 500000)
  203 words of extra memory for PDF output out of 10000 (max. 10000000)
 
